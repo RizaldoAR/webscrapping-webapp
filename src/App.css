@@ -24,8 +24,16 @@
   color: white;
 }
 
+
 .App-link {
   color: #61dafb;
+}
+
+body {
+  background-color: cadetblue;
+}
+body  .bg-dark{
+  background-color: black;
 }
 
 @keyframes App-logo-spin {
